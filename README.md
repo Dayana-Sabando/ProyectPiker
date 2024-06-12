@@ -8,7 +8,7 @@ Este programa de JavaFX nos permite jugar con fechas y colores.
 
 Conozcamos con más detalle cómo se usa este programa en conjuntos con los elementos que lo componen:
 
-**USO**
+**UTILIDAD**
 
 En la parte superior, encontrarás un cuadro llamado *"Selecciona una fecha"* junto a un calendario desplegable **(DatePicker)**. Puedes hacer clic en las fechas para elegir la que desees.
 Debajo, verás otro cuadro que dice* "Selecciona un color" *acompañado de un selector de color **(ColorPicker)**. 
