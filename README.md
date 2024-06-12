@@ -4,9 +4,11 @@
 
 Este programa de JavaFX nos permite jugar con fechas y colores.  
 
+
 **DESARROLLO**
 
 Conozcamos con más detalle cómo se usa este programa en conjuntos con los elementos que lo componen:
+
 
 **UTILIDAD**
 
@@ -15,10 +17,12 @@ Debajo, verás otro cuadro que dice* "Selecciona un color" *acompañado de un se
 Una vez que hayas elegido tu fecha y color, presiona el botón *"Confirmar"* para que pueda ser aplicado la fecha con su color elegido.
 
 
-![Captura de pantalla (294)](https://github.com/Dayana-Sabando/ProyectPiker/assets/168872451/b467d73d-6155-4986-b242-dcdca6c8ba0c)
+![Captura de pantalla (294)](https://github.com/Dayana-Sabando/ProyectPiker/assets/168872451/c8ab436d-2ff3-4a92-8c8a-47037ba7d8c2)
 
 
-![Captura de pantalla (295)](https://github.com/Dayana-Sabando/ProyectPiker/assets/168872451/62ea8500-497a-4748-bce7-f1fe42cffe87)
+
+![Captura de pantalla (295)](https://github.com/Dayana-Sabando/ProyectPiker/assets/168872451/d5c8b300-a6b3-412d-81c1-94e2a251e3fd)
+
 
 Al presionar "Confirmar", la aplicación te mostrará dos mensajes:
 -	La fecha que seleccionaste con el formato** "dd/MM/yyyy"** (por ejemplo, "Fecha    seleccionado: 11/06/2024").
@@ -34,7 +38,6 @@ Al presionar "Confirmar", la aplicación te mostrará dos mensajes:
 ![Captura de pantalla 2024-06-11 220612](https://github.com/Dayana-Sabando/ProyectPiker/assets/168872451/048a211b-eca2-4faa-bf65-28f4bbb0b83c)
 
 
-![Captura de pantalla 2024-06-11 214602](https://github.com/Dayana-Sabando/ProyectPiker/assets/168872451/3b9b5558-d887-41df-ac7b-8444913f47dd)
 
 **COMPONENTES**
 
@@ -45,6 +48,9 @@ Al presionar "Confirmar", la aplicación te mostrará dos mensajes:
 -	**Evento:** Configuramos un evento para actualizar el Label cada vez que se selecciona un nuevo color en el ColorPicker.
 -	**VBox:** Usamos un VBox para organizar el ColorPicker y el Label verticalmente.
 -	**Escena:** Configuramos la escena y el escenario para mostrar la GUI.
+
+![Captura de pantalla 2024-06-11 214602](https://github.com/Dayana-Sabando/ProyectPiker/assets/168872451/f3956bc1-6684-4301-93a3-6f821f451494)
+
 
 **CONCLUSIÓN**
 
