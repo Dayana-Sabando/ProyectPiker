@@ -1,6 +1,6 @@
 # DatePicker y ColorPicker
 
-##3 INTRODUCCIÓN
+### INTRODUCCIÓN
 
 Este programa de JavaFX nos permite jugar con fechas y colores.  
 
