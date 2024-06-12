@@ -1,4 +1,4 @@
-## DatePicker y ColorPicker
+# DatePicker y ColorPicker
 
 **INTRODUCCIÓN**
 
